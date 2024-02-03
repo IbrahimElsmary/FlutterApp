@@ -1,8 +1,9 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_group_1/app_settings.dart';
-import 'package:flutter_group_1/screens/home_page.dart';
-import 'package:flutter_group_1/widgets/app_button.dart';
+import 'package:flutter_group_1/views/screens/home_page.dart';
+//import 'package:flutter_group_1/views/screens/widgets/app_button.dart';
+import 'package:flutter_group_1/views/widgets/app_button.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SignInPage extends StatefulWidget {
